@@ -1,0 +1,3 @@
+# Youtube Downloader
+
+Projeto final referente a matéria de Programação Orientada à Objetos I ofertada no Curso de Ciências da Computação (Fase I) na Universidade Federal de Santa Catarina (UFSC), executado por Caio Ferreira Cardoso e Nicolas Constante Guedert visando a criação de uma ferramenta simples para download de vídeos/playlist do Youtube, com a possibilidade de convertê-los para áudio MP3. Funciona de forma simples e sem muitas funcionalidades, com a finalidade de apenas baixar videos/áudios de links válidos do Youtube. Basta copiar e colar um link existente e não privado na ferramenta, lembrando de instalar as libs informadas nos arquivos.
